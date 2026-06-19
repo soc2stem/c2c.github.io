@@ -1,0 +1,51 @@
+```css
+/* UT Austin Burnt Orange Theme */
+
+/* Links */
+a {
+  color: #BF5700;
+}
+
+a:hover {
+  color: #8F3E00;
+}
+
+/* Top navigation bar */
+.masthead {
+  background-color: #BF5700;
+}
+
+.masthead__menu-item a {
+  color: white !important;
+}
+
+.masthead__menu-item a:hover {
+  color: #FFD6B3 !important;
+}
+
+/* Buttons */
+.btn {
+  background-color: #BF5700;
+  color: white;
+}
+
+.btn:hover {
+  background-color: #8F3E00;
+}
+
+/* Sidebar headings */
+.author__name {
+  color: #BF5700;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: #BF5700;
+}
+
+/* Footer */
+.page__footer {
+  background-color: #BF5700;
+  color: white;
+}
+```
